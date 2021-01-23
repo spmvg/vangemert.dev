@@ -16,6 +16,12 @@ export default {
     return {
       posts: [
         {
+        name: 'Thinking in orders of magnitude',
+        description: 'Where physicists have an edge over computer scientists.',
+        link: 'orders-of-magnitude',
+        date: '23 Jan. 2021'
+        },
+        {
           name: 'How, why and the smelly washing machine',
           description: 'Why self-documenting code does not exist.',
           link: 'how-why-and-the-smelly-washing-machine',

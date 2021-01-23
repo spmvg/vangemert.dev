@@ -1,0 +1,3 @@
+{\color{White} \text{var} \, X
+\stackrel{\text{def.}}{=} \text{var} \, X_1 ... X_n
+\stackrel{\text{indep.}}{=} \prod_{i=1}^n \big[ \text{var} \, X_i + \mathbb{E}^2 X_i \big] - \prod_{i=1}^n \mathbb{E}^2 X_i}

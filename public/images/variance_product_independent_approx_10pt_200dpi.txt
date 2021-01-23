@@ -1,0 +1,2 @@
+{\color{White} \text{var} \, X \
+\stackrel{\text{var} \, X_i \gg \mathbb{E}^2 X_i}{\approx} \ \prod_{i=1}^n \text{var} \, X_i}
