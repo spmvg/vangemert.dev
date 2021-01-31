@@ -1,9 +1,7 @@
 <template>
   <div class="md">
     <b-row class="px-3 pt-2 mt-3">
-      <b-col cols="12"><p>
-        Python, cloud, physicist. Customer engineer at Energyworx. MSc engineering physics from Delft University. Passions include guitar, home automation and probability theory.
-      </p></b-col>
+      <b-col cols="12"><p>{{short_description}}</p></b-col>
     </b-row>
 
     <b-row class="px-3">
@@ -15,11 +13,25 @@
     <b-row class="px-3">
       <b-col cols="9">
         <ul><li><p>
-          <strong>Customer Engineer - Energyworx B.V.</strong><br>
-          Python, Google cloud, bughunting
+          <strong>Data Scientist - NWWI</strong>
         </p></li></ul>
       </b-col>
-      <b-col class="blogpost-date mr-auto"><p><i>Apr. 2019 -<br> now</i></p></b-col>
+      <b-col class="blogpost-date mr-auto"><p><i>Feb. 2021 -<br> now</i></p></b-col>
+    </b-row>
+    <b-row class="px-3">
+      <b-col cols="9">
+        <ul><li><p>
+          <strong>Customer Engineer - Energyworx B.V.</strong><br>
+          <ul>
+            <li>Became a key player in the integration of a big customer</li>
+            <li>Developed features and bugfixes in Python</li>
+            <li>Became a sparring partner for other developers, for example in code reviews</li>
+            <li>Designed and implemented platform monitoring using several cloud components</li>
+            <li>Owned the release process (git workflows)</li>
+          </ul>
+        </p></li></ul>
+      </b-col>
+      <b-col class="blogpost-date mr-auto"><p><i>Apr. 2019 -<br> Jan. 2021</i></p></b-col>
     </b-row>
     <b-row class="px-3">
       <b-col cols="9">
@@ -34,7 +46,7 @@
       <b-col cols="9">
         <ul><li><p>
           <strong>Business Intelligence (part-time) - Delft Circuits B.V.</strong><br>
-          Develop tool for market research in cryogenic circuit technology
+          Developed a tool for market research in cryogenic circuit technology
         </p></li></ul>
       </b-col>
       <b-col class="blogpost-date mr-auto"><p><i>Jun. 2017 -<br> Feb. 2018</i></p></b-col>
@@ -87,8 +99,14 @@
 </template>
 
 <script>
-export default {
+import short_description from '@/components/description.js'
 
+export default {
+  data() {
+    return {
+      short_description: short_description
+    }
+  }
 }
 </script>
 
