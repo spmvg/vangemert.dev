@@ -31,7 +31,7 @@ After you have made changes to the repository, you can make a "commit" that desc
 Commits are checkpoints in the history of the repository. 
 How to do this will be described below, but it is good to get familiar with the concepts first. 
 Commits are identified by a SHA1 hash, like this: `c52c3ac41d78cbc6e73cc3d45d0d8a710ca4b7b5`.
-It is common to provide only the first few (`c52`...) or last few (...`7b5`) characters in discussions when referring to a commit.
+It is common to provide only the first few (`c52`...) characters in discussions when referring to a commit.
 A commit contains a "diff", which describes the difference with the previous commit.
 A single commit hash is enough to point to a specific version of all the code in the repository: including code that has not been edited in that commit.
 Since commits uniquely identify a version of the complete repository, two commits that have the same diff do not need to have the same commit hash.
