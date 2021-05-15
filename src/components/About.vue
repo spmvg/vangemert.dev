@@ -13,7 +13,8 @@
     <b-row class="px-3">
       <b-col cols="9">
         <ul><li><p>
-          <strong>Data Scientist - NWWI</strong>
+          <strong>Data Scientist - NWWI</strong><br>
+          NWWI is a validation institute for property valuation.
         </p></li></ul>
       </b-col>
       <b-col class="blogpost-date mr-auto"><p><i>Feb. 2021 -<br> now</i></p></b-col>
@@ -22,9 +23,10 @@
       <b-col cols="9">
         <ul><li><p>
           <strong>Customer Engineer - Energyworx B.V.</strong><br>
+          Energyworx is a cloud-based energy data platform.<br>
           <ul>
             <li>Became a key player in the integration of a big customer</li>
-            <li>Developed features and bugfixes in Python</li>
+            <li>Developed features and bugfixes in Python on Google Cloud Platform</li>
             <li>Became a sparring partner for other developers, for example in code reviews</li>
             <li>Designed and implemented platform monitoring using several cloud components</li>
             <li>Owned the release process (git workflows)</li>
@@ -37,7 +39,8 @@
       <b-col cols="9">
         <ul><li><p>
           <strong>Intern (MSc) - Merck KGaA</strong><br>
-          Machine learning research project
+          Merck KGaA is a multinational science and technology company.<br>
+          <ul><li>Internship: developed reinforcement learning method in Python.</li></ul>
         </p></li></ul>
       </b-col>
       <b-col class="blogpost-date mr-auto"><p><i>Dec. 2018 -<br> Mar. 2019</i></p></b-col>
@@ -46,7 +49,8 @@
       <b-col cols="9">
         <ul><li><p>
           <strong>Business Intelligence (part-time) - Delft Circuits B.V.</strong><br>
-          Developed a tool for market research in cryogenic circuit technology
+          Delft Circuits produces quantum computing hardware.<br>
+          <ul><li>Made a tool that mines scientific publications for market research in cryogenic circuit technology using Python.</li></ul>
         </p></li></ul>
       </b-col>
       <b-col class="blogpost-date mr-auto"><p><i>Jun. 2017 -<br> Feb. 2018</i></p></b-col>
@@ -55,7 +59,11 @@
       <b-col cols="9">
         <ul><li><p>
           <strong>Research assistant (part-time) - Disdrometrics B.V.</strong><br>
-          Rainfall sensor data analysis in Python and MATLAB
+          Disdrometrics produces acoustical rain sensors.<br>
+          <ul>
+            <li>Rainfall sensor data analysis in Python and MATLAB.</li>
+            <li>Designing and maintaining calibration setup prototypes for acoustical rain sensors.</li>
+          </ul>
         </p></li></ul>
       </b-col>
       <b-col class="blogpost-date mr-auto"><p><i>Feb. 2015 -<br> Jul. 2017</i></p></b-col>
