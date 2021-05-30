@@ -7,6 +7,7 @@
           <b-navbar-nav class="ml-auto">
             <b-nav-item to="/" class="mx-1">HOME</b-nav-item>
             <b-nav-item to="/blog" class="mx-1">BLOG</b-nav-item>
+            <b-nav-item href="https://pypi.org/project/evt/" class="mx-1" target="_blank">EVT</b-nav-item>
             <b-nav-item href="https://pypi.org/project/nfoursid/" class="mx-1" target="_blank">NFOURSID</b-nav-item>
             <b-nav-item to="/about" class="mx-1">ABOUT</b-nav-item>
             <b-nav-item href="https://github.com/spmvg" class="mx-1" target="_blank">GITHUB</b-nav-item>
