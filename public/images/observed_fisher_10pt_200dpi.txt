@@ -1,0 +1,13 @@
+{\color{White}
+
+- \mathbb{E}
+
+\bigg[
+
+\frac{\partial^2}{\partial \theta_i \partial \theta_j}
+
+\mathrm{log} \, f(x; \theta) \ \bigg|\  \theta
+
+\bigg]
+
+}

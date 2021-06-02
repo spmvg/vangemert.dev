@@ -16,6 +16,12 @@ export default {
     return {
       posts: [
         {
+        name: 'Adding confidence intervals to maximum likelihood estimates using sympy',
+        description: 'Not pretty, but interesting.',
+        link: 'mle-ci',
+        date: '2 Jun. 2021'
+        },
+        {
         name: 'Thinking in orders of magnitude',
         description: 'Where physicists have an edge over computer scientists.',
         link: 'orders-of-magnitude',

@@ -1,0 +1,13 @@
+{\color{White}
+
+f(x; \gamma, \sigma, \mu) :=
+
+\frac{1}{\sigma}
+
+\big( 1 + \gamma (x - \mu) / \sigma \big) ^ {-1-1/\gamma}
+
+\exp \bigg[ - \big( 1 + \gamma (x - \mu) / \sigma \big) ^ {-1/\gamma} \bigg],
+
+\ \gamma \neq 0
+
+}
