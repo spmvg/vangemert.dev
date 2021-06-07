@@ -34,7 +34,7 @@ An _α_% confidence interval ideally indicates: on average in _α_% of the cases
 However, this is often not the case.
 The following points are important to keep in mind when interpreting confidence intervals.
 * **Confidence intervals do not account for model-error.**
-  For example, if you calculate error bars based assuming a normal distribution, but your data is not normally distributed, your error bars will generally be off.
+  For example, if you calculate error bars assuming a normal distribution, but your data is not normally distributed, your error bars will generally be off.
 * **Confidence intervals are random variables.**
   This needs no explanation, but should not be forgotten.
 * **Confidence intervals generally do not account for bias.**
@@ -78,7 +78,7 @@ Now, the fun part begins.
 Knowing that the differentiation would be performed using symbolic algebra, we have several options to integrate the result in the `evt` package:
 
 * Do it once using a scratch script and copy-paste it into the source code.
-  This is error-prone and hurts while writing it.
+  This is error-prone and hurts while writing this.
 * Evaluate the symbolic differentiation at run-time.
   This is wasteful.
 * Evaluate the symbolic differentiation once, [lambdify](https://docs.sympy.org/latest/modules/utilities/lambdify.html) the function and serialize the function for later.
