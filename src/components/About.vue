@@ -14,7 +14,12 @@
       <b-col cols="9">
         <ul><li><p>
           <strong>Data Scientist - NWWI</strong><br>
-          NWWI is a validation institute for property valuation.
+          NWWI is a validation institute for property valuation.<br>
+          <ul>
+            <li>Increased efficiency across the organisation by developing machine learning pipelines in Python</li>
+            <li>Performed analyses for management</li>
+            <li>Integrated CI/CD best practices</li>
+          </ul>
         </p></li></ul>
       </b-col>
       <b-col class="blogpost-date mr-auto"><p><i>Feb. 2021 -<br> now</i></p></b-col>
@@ -25,11 +30,10 @@
           <strong>Customer Engineer - Energyworx B.V.</strong><br>
           Energyworx is a cloud-based energy data platform.<br>
           <ul>
-            <li>Became a key player in the integration of a big customer</li>
-            <li>Developed features and bugfixes in Python on Google Cloud Platform</li>
+            <li>Reduced incident response time by implementing monitoring on Google Cloud Platform</li>
+            <li>Reduced number of issues after releases by improving git workflows</li>
+            <li>Solved critical issues before and after the go-live of a major electric utility in Python</li>
             <li>Became a sparring partner for other developers, for example in code reviews</li>
-            <li>Designed and implemented platform monitoring using several cloud components</li>
-            <li>Owned the release process (git workflows)</li>
           </ul>
         </p></li></ul>
       </b-col>
