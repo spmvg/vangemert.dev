@@ -17,7 +17,7 @@
           NWWI is a validation institute for property valuation.<br>
           <ul>
             <li>Increased efficiency across the organisation by developing machine learning pipelines in Python</li>
-            <li>Performed analyses for management</li>
+            <li>Performed analyses and built dashboards for management</li>
             <li>Integrated CI/CD best practices</li>
           </ul>
         </p></li></ul>
