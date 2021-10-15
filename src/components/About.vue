@@ -30,9 +30,9 @@
           <strong>Customer Engineer - Energyworx B.V.</strong><br>
           Energyworx is a cloud-based energy data platform.<br>
           <ul>
+            <li>Solved critical issues before and after the go-live of a major electric utility in Python</li>
             <li>Reduced incident response time by implementing monitoring on Google Cloud Platform</li>
             <li>Reduced number of issues after releases by improving git workflows</li>
-            <li>Solved critical issues before and after the go-live of a major electric utility in Python</li>
             <li>Became a sparring partner for other developers, for example in code reviews</li>
           </ul>
         </p></li></ul>
