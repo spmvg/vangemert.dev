@@ -4,6 +4,9 @@
         <b-col cols="12" lg="7">
             <p>{{intro}}<br><br>{{short_description}}</p>
         </b-col>
+        <b-col cols="5" lg="3">
+            <img src="images/aws-certified-solutions-architect-associate.png">
+        </b-col>
         <b-col cols="5">
             <img src="images/steven_van_gemert.png">
         </b-col>

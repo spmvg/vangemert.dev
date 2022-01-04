@@ -1,7 +1,10 @@
 <template>
   <div class="md">
     <b-row class="px-3 pt-2 mt-3">
-      <b-col cols="12"><p>{{short_description}}</p></b-col>
+      <b-col cols="7" lg="8"><p>{{short_description}}</p></b-col>
+      <b-col cols="5" lg="4">
+        <img src="images/aws-certified-solutions-architect-associate.png">
+      </b-col>
     </b-row>
 
     <b-row class="px-3">
@@ -134,4 +137,7 @@ export default {
   font-family: "Lora", serif;
 }
 
+img {
+  width: 100%;
+}
 </style>
