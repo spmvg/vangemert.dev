@@ -16,6 +16,12 @@ export default {
     return {
       posts: [
         {
+        name: 'Robotaxis and AI hardness',
+        description: 'In AI, some problems are harder than others.',
+        link: 'robotaxis-and-AI-hardness',
+        date: '16 Jan. 2022'
+        },
+        {
         name: 'Adding confidence intervals to maximum likelihood estimates using sympy',
         description: 'Not pretty, but interesting.',
         link: 'mle-ci',

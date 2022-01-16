@@ -25,7 +25,7 @@
           </ul>
         </p></li></ul>
       </b-col>
-      <b-col class="blogpost-date mr-auto"><p><i>Feb. 2021 -<br> now</i></p></b-col>
+      <b-col class="blogpost-date mr-auto"><p><i>Feb. 2021 -<br> Jan. 2022</i></p></b-col>
     </b-row>
     <b-row class="px-3">
       <b-col cols="9">
