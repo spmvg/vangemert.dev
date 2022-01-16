@@ -16,7 +16,7 @@ export default {
     return {
       posts: [
         {
-        name: 'Robotaxis and AI hardness',
+        name: 'Robotaxis and AI-hardness',
         description: 'In AI, some problems are harder than others.',
         link: 'robotaxis-and-AI-hardness',
         date: '16 Jan. 2022'
