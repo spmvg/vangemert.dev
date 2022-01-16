@@ -27,7 +27,7 @@ The owners would get a share of the revenue.
 The probable gross profit of a single Robotaxi would be approximately $30 000 per year.
 Tesla CEO Elon Musk had the following to say about buying a Tesla:
 
-> _"Really the fundamental message that consumers should be taking today, is that it's financially instane to buy anything other than a Tesla."_ (Elon Musk, 2019. [YouTube](https://www.youtube.com/watch?v=F8TLsdpYsow))
+> _"Really the fundamental message that consumers should be taking today, is that it's financially insane to buy anything other than a Tesla."_ (Elon Musk, 2019. [YouTube](https://www.youtube.com/watch?v=F8TLsdpYsow))
 
 Their stock price has gone to the stratosphere since.
 In 2022 unfortunately, Robotaxis are still nowhere to be found.
