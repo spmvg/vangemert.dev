@@ -16,6 +16,15 @@
     <b-row class="px-3">
       <b-col cols="9">
         <ul><li><p>
+          <strong>Python Developer - ABN AMRO Clearing Bank N.V.</strong><br>
+          ABN AMRO Clearing Bank N.V. is a global clearing bank.<br>
+        </p></li></ul>
+      </b-col>
+      <b-col class="blogpost-date mr-auto"><p><i>Feb. 2022 -<br> now</i></p></b-col>
+    </b-row>
+    <b-row class="px-3">
+      <b-col cols="9">
+        <ul><li><p>
           <strong>Data Scientist - NWWI</strong><br>
           NWWI is a validation institute for property valuation.<br>
           <ul>
