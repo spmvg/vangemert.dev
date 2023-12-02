@@ -17,8 +17,8 @@ export default {
       posts: [
         {
         name: 'When cheap energy turns green',
-        description: 'Does cheap power imply green power?',
-        link: 'when-cheap-energy-turns-green.md',
+        description: 'Does cheap power mean green power?',
+        link: 'when-cheap-energy-turns-green',
         date: '2 Dec. 2023'
         },
         {

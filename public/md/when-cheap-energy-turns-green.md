@@ -1,7 +1,7 @@
 Date: 2 Dec. 2023
 ## When cheap energy turns green
 
-We often hear that cheap power equals green power, but is that the case?
+It is sometimes said that cheap power means green power, but is that the case?
 In this blogpost we compare emissions data with price deviations and the hour of the day.
 It can be seen in the following figure that large negative price deviations — cheap power — indeed correspond to lower carbon emissions: but only during daytime.
 
