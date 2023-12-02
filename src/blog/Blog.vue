@@ -16,6 +16,12 @@ export default {
     return {
       posts: [
         {
+        name: 'When cheap energy turns green',
+        description: 'Does cheap power imply green power?',
+        link: 'when-cheap-energy-turns-green.md',
+        date: '2 Dec. 2023'
+        },
+        {
         name: 'Robotaxis and AI-hardness',
         description: 'In AI, some problems are harder than others.',
         link: 'robotaxis-and-AI-hardness',
