@@ -1,10 +1,10 @@
 <template>
     <div>
-      <b-navbar toggleable="sm" type="dark" variant="dark">
-        <b-navbar-brand to="/" class="ml-5">vangemert.dev</b-navbar-brand>
-        <b-navbar-toggle target="nav-collapse"></b-navbar-toggle>
+      <b-navbar toggleable="md" type="dark" variant="dark">
+        <b-navbar-brand to="/" class="ms-5">vangemert.dev</b-navbar-brand>
+        <b-navbar-toggle target="nav-collapse" class="mx-5"></b-navbar-toggle>
         <b-collapse id="nav-collapse" is-nav class="mr-5">
-          <b-navbar-nav class="ml-auto">
+          <b-navbar-nav class="ms-auto mx-5">
             <b-nav-item to="/" class="mx-1">HOME</b-nav-item>
             <b-nav-item to="/blog" class="mx-1">BLOG</b-nav-item>
             <b-nav-item href="https://pypi.org/project/evt/" class="mx-1" target="_blank">EVT</b-nav-item>
