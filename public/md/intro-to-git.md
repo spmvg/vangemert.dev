@@ -1,4 +1,4 @@
-Date: 13 Mar. 2019
+Date: 13 Mar. 2019, Steven van Gemert
 ## Intro to git
 
 Version control is important.

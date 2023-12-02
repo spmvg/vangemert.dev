@@ -1,4 +1,4 @@
-Date: 2 Dec. 2023
+Date: 2 Dec. 2023, Mattheüs de Koning & Steven van Gemert
 ## When cheap energy turns green
 
 It is sometimes said that cheap power means green power, but is that the case?

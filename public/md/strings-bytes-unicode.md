@@ -1,4 +1,4 @@
-Date: 22 Apr. 2020
+Date: 22 Apr. 2020, Steven van Gemert
 
 ## Strings, bytes and unicode
 Strings, bytes and unicode cause confusion among Python programmers - and they shouldn't.

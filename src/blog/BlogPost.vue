@@ -1,7 +1,7 @@
 <template>
   <div class="md">
     <b-row class="px-3 py-2 my-3">
-      <b-col class="blogpost-name ml-auto"><p><i>Steven van Gemert</i></p></b-col>
+      <b-col class="blogpost-name ml-auto"><p><i>{{this.authors}}</i></p></b-col>
       <b-col class="blogpost-date mr-auto"><p>{{this.date}}</p></b-col>
       <b-col cols="12">
         <span v-html="post"></span>
@@ -27,7 +27,8 @@ function display_post() {
       if (!date_line.startsWith("Date: ")) {
         this.$router.replace('/404');
       }
-      this.date = date_line.substring(6);
+      this.date = date_line.substring(6, date_line.indexOf(","));
+      this.authors = date_line.substring(date_line.indexOf(",") + 1);
       this.post = md.render(text.substring(text.indexOf("\n") + 1));
     })
 }
@@ -36,7 +37,8 @@ export default {
   data() {
     return {
       post: 'Loading...',
-      date: ''
+      date: '',
+      authors: ''
     }
   },
   updated: display_post,

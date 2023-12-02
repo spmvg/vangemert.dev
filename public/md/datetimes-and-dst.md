@@ -1,4 +1,4 @@
-Date: 17 Oct. 2020
+Date: 17 Oct. 2020, Steven van Gemert
 ## Datetimes and DST
 
 On the surface, handling dates and times sounds like a trivial task.

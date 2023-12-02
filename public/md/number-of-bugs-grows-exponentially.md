@@ -1,4 +1,4 @@
-Date: 8 Sep. 2020
+Date: 8 Sep. 2020, Steven van Gemert
 ## The number of bugs grows exponentially
 The bigger a piece of software gets, the bigger the potential becomes for bugs.
 This post describes how the number of bugs can grow exponentially and what can be done about it.

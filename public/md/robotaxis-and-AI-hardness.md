@@ -1,4 +1,4 @@
-Date: 16 Jan. 2022
+Date: 16 Jan. 2022, Steven van Gemert
 
 ## Robotaxis and AI-hardness
 There seems to be an ever-growing hype surrounding the field of AI.

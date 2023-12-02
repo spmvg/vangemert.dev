@@ -1,4 +1,4 @@
-Date: 2 Nov. 2020
+Date: 2 Nov. 2020, Steven van Gemert
 ## How, why and the smelly washing machine
 
 When it comes to commenting code, most people that I meet, tend to fall in one of two categories:

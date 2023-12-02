@@ -1,4 +1,4 @@
-Date: 2 Jun. 2021
+Date: 2 Jun. 2021, Steven van Gemert
 ## Adding confidence intervals to maximum likelihood estimates using `sympy`
 While working on a [package](https://github.com/spmvg/evt) called `evt` for extreme value theory in Python, it was necessary to add confidence intervals to a maximum likelihood estimate.
 Based on design considerations, the implementation that was considered to be optimal, is not the prettiest.

@@ -1,4 +1,4 @@
-Date: 23 Jan. 2021
+Date: 23 Jan. 2021, Steven van Gemert
 
 ## Thinking in orders of magnitude
 
