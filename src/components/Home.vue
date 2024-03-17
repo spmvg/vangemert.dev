@@ -5,7 +5,7 @@
             <p>{{short_description}}</p>
         </b-col>
         <b-col cols="5" lg="3">
-            <img src="images/aws-certified-solutions-architect-associate.png">
+            <img src="images/aws-certified-solutions-architect.png">
         </b-col>
         <b-col cols="5">
             <img src="images/steven_van_gemert.png">

@@ -3,7 +3,7 @@
     <b-row class="px-3 pt-2 mt-3">
       <b-col cols="7" lg="8"><p>{{short_description}}</p></b-col>
       <b-col cols="5" lg="4">
-        <img src="images/aws-certified-solutions-architect-associate.png">
+        <img src="images/aws-certified-solutions-architect.png">
       </b-col>
     </b-row>
 
@@ -16,11 +16,19 @@
     <b-row class="px-3">
       <b-col cols="9">
         <ul><li><p>
+          <strong>Chapter Lead Python - ABN AMRO Clearing Bank N.V.</strong>
+        </p></li></ul>
+      </b-col>
+      <b-col class="blogpost-date mr-auto"><p><i>Feb. 2023 -<br> now</i></p></b-col>
+    </b-row>
+    <b-row class="px-3">
+      <b-col cols="9">
+        <ul><li><p>
           <strong>Python Developer - ABN AMRO Clearing Bank N.V.</strong><br>
           ABN AMRO Clearing Bank N.V. is a global clearing bank.<br>
         </p></li></ul>
       </b-col>
-      <b-col class="blogpost-date mr-auto"><p><i>Feb. 2022 -<br> now</i></p></b-col>
+      <b-col class="blogpost-date mr-auto"><p><i>Feb. 2022 -<br> Jan. 2023</i></p></b-col>
     </b-row>
     <b-row class="px-3">
       <b-col cols="9">
