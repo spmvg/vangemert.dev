@@ -20,7 +20,7 @@ function display_post() {
   if (!matches) { this.$router.replace('/404') }
 
   var md = new MarkdownIt()
-  fetch('./md/'+filename+'.md')
+  fetch('./md/'+filename+'.txt')
     .then(response => response.text())
     .then(text => {
       var date_line = text.substring(0, text.indexOf("\n") + 1);
