@@ -78,7 +78,7 @@ The list is in no particular order, but related statements are grouped together.
 * Conway’s law is unforgiving.
 * To investigate problems in an organization, start by studying the organizational chart.
 * Focus on alignment about the desired result instead of alignment about the process.
-* If you work in manufacturing, you need a basic understand of the manufacturing process of your organization.
+* If you work in manufacturing, you need a basic understanding of the manufacturing process of your organization.
 * You cannot assign responsibility for manufacturing process steps if the manufacturing process itself is a topic of discussion.
 * Big organizations tend to produce I-shaped individuals.
 * Attending a training is not sufficient to change behavior.
