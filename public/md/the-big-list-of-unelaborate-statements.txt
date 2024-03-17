@@ -1,0 +1,121 @@
+Date: 17 Mar. 2024, Steven van Gemert
+## The big list of unelaborate statements
+
+This is not really a blog post.
+The following is a list of unelaborate statements about building software: things I picked up from somewhere else; things I learned or things I think.
+These statements should not be considered hard truths, but instead the statements could be used to provoke thought and discussion.
+The list is in no particular order, but related statements are grouped together.
+
+##### About managing products
+* Degradation over time is the nature of things.
+* Mistakes are going to be made.
+* Limit features initially, relax limits later - not the other way around.
+* Reduce cognitive load.
+* Pay more attention to decisions which you cannot easily revert.
+* Maintain temporary backwards compatibility for breaking changes.
+* Data quality issues are product defects.
+* Trader's wisdom: take losses early, let profits run.
+* For more context, turn questions, statements and opinions around.
+* Agile is a mindset, not a way of working.
+* To sabotage a project, require a complete investigation into all available options.
+* Sales and marketing make up at least half of a business case.
+* Customer usage is the most important feedback: not customer opinions.
+* Results, not processes.
+* Base your direction on the destination, not just the journey so far.
+* If the current situation or desired result is unclear, it is not efficient to discuss actions.
+* Roadmaps do not need dates.
+* Don’t outsource core business.
+* Once is happenstance, twice is possibly not a coincidence.
+* Inefficient developers solve imaginary problems.
+* How you approach a project can matter more than technical skills (see The Beatles).
+
+##### About writing and reviewing code
+* The creative process and review of code is a lot like writing a novel.
+* Pay more attention to interfaces, than to implementation.
+* Developers are closer to painters than to factory workers.
+* Going to art school does not necessarily make you a good painter. To be a good painter you do not necessarily have to go to art school, but you do not become a good painter without dedicated effort.
+* Fewer lines of code are not necessarily better.
+* Whitespace is free.
+* Commits are free.
+* Branches are free.
+* Code without comments is often unreadable, but not necessarily.
+* Commit messages should explain “why”, not “what”.
+* Variable names should explain purpose, not just content.
+* Business-logic related concepts in code must be defined only once. Code duplication that does not violate this rule is harmless.
+* Strict test driven development is only possible if the implementation is already known beforehand.
+* There is no excuse for developers to be unaware of how their products are being used.
+* For intuitive button design, look at cockpits.
+* The “else” statement is lava.
+* Lack of traceability is a vulnerability.
+
+##### About mindset
+* Think first, then do, then check and finally clean up - in this order and not skipping a step.
+* Overutilizing the rational mind is inefficient. Underutilizing the rational mind is both inefficient and dangerous.
+* Repetition relaxes the rational mind.
+* The best way to do something is to do something.
+* SEALs motto: slow is smooth, smooth is fast.
+* Verify by viewing the result from two different perspectives.
+* People have an intrinsic drive to contribute.
+* Not looking can feel comforting. Forcing yourself to look takes considerable effort.
+* Separate the person from the problem.
+* Expectations and desires influence perception.
+* It is hard to accept what you have no control over. It is harder to accept what you have very little control over.
+* Implement asynchronous queues in your daily life.
+
+##### About organizations and teams
+* Prefer ownership over accountability and responsibility.
+* Lack of ownership creates chaos, which can be a conscious choice if the chaos isn’t harmful.
+* After code review, ownership of the code shifts to the team.
+* The stakeholders of a team should be countable on one hand.
+* Teams of more than 10 people cannot function efficiently.
+* Efficient decision making in an organization does not feel democratic.
+* Higher management becomes inefficient if they manage more than a few sub-divisions each.
+* Lowest level managers should be able to at least mostly execute the jobs of their subordinates.
+* If everybody is responsible, nobody is.
+* Assign responsibility to roles, not organizations.
+* The separation of responsibility and accountability is dangerous.
+* Separating “how” from “what” is inefficient. 
+* Conway’s law is unforgiving.
+* To investigate problems in an organization, start by studying the organizational chart.
+* Focus on alignment about the desired result instead of alignment about the process.
+* If you work in manufacturing, you need a basic understand of the manufacturing process of your organization.
+* You cannot assign responsibility for manufacturing process steps if the manufacturing process itself is a topic of discussion.
+* Big organizations tend to produce I-shaped individuals.
+* Attending a training is not sufficient to change behavior.
+* Incentives change behavior.
+* To prevent falling off a cliff, build a fence instead of organizing a training.
+* Most armies are organized similarly due to “survival of the fittest”.
+* The Boeing 737 MAX story is a cautionary tale for software development.
+
+##### About architecture
+* Prioritize security over anything else.
+* Prioritize correctness over performance.
+* Prioritize architecture over programming languages.
+* Consistency is often not a requirement.
+* Creating complexity is easy.
+* Technical agnosticism, such as a cloud agnostic architecture, comes with costs and limitations.
+* Vendor lock-in can be the best solution.
+* For most applications, data retrieval requirements should drive storage design.
+* Besides backups, data must be stored only once, unless performance requires otherwise.
+* Custom caching implementations are indicators of architectural issues.
+* Performance decisions need to be backed up by experimental tests.
+* Static data isn’t static.
+* It’s turtles all the way down.
+* Unit tests without end-to-end tests give a false sense of security.
+* It is impossible to automate all end-to-end tests.
+
+##### About communication
+* Working remotely requires the team to keep chronological and searchable work notes in a centralized tool.
+* Write a summary of your email in the first paragraph, without calling it such (say important things twice).
+* Don’t use pronouns such as 'this' or 'that' to prevent confusion. For clarity, explicitly name the thing being referred to, even at the cost of repetition.
+* Don’t use context-dependent words such as 'all' or 'everything' to prevent confusion.
+* Provide uncertainty if your answer is an estimate.
+* If your answer is not certain and you cannot provide an estimate, only then say "I don't know".
+* Add units to quantities.
+* Add timezones to times.
+* Use the NATO alphabet to effectively pronounce characters.
+* Use cities as timezones instead of UTC offsets to prevent confusion during DST.
+* If all you have is Outlook, then everything is an email.
+* If all you have is Excel, then everything is a spreadsheet.
+* The Dutch phrase “Ik moet helemaal niks!” is an illustration of Dutch culture.
+* Spreadsheets display information more space-efficiently than graphs.

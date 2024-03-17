@@ -16,28 +16,34 @@ export default {
     return {
       posts: [
         {
-        name: 'When cheap energy turns green',
-        description: 'Does cheap power mean green power?',
-        link: 'when-cheap-energy-turns-green',
-        date: '2 Dec. 2023'
+          name: 'The big list of unelaborate statements',
+          description: 'A list of unelaborate statements about building software.',
+          link: 'the-big-list-of-unelaborate-statements',
+          date: '17 Mar. 2024'
         },
         {
-        name: 'Robotaxis and AI-hardness',
-        description: 'In AI, some problems are harder than others.',
-        link: 'robotaxis-and-AI-hardness',
-        date: '16 Jan. 2022'
+          name: 'When cheap energy turns green',
+          description: 'Does cheap power mean green power?',
+          link: 'when-cheap-energy-turns-green',
+          date: '2 Dec. 2023'
         },
         {
-        name: 'Adding confidence intervals to maximum likelihood estimates using sympy',
-        description: 'Not pretty, but interesting.',
-        link: 'mle-ci',
-        date: '2 Jun. 2021'
+          name: 'Robotaxis and AI-hardness',
+          description: 'In AI, some problems are harder than others.',
+          link: 'robotaxis-and-AI-hardness',
+          date: '16 Jan. 2022'
         },
         {
-        name: 'Thinking in orders of magnitude',
-        description: 'Where physicists have an edge over computer scientists.',
-        link: 'orders-of-magnitude',
-        date: '23 Jan. 2021'
+          name: 'Adding confidence intervals to maximum likelihood estimates using sympy',
+          description: 'Not pretty, but interesting.',
+          link: 'mle-ci',
+          date: '2 Jun. 2021'
+        },
+        {
+          name: 'Thinking in orders of magnitude',
+          description: 'Where physicists have an edge over computer scientists.',
+          link: 'orders-of-magnitude',
+          date: '23 Jan. 2021'
         },
         {
           name: 'How, why and the smelly washing machine',
