@@ -27,6 +27,7 @@ The list is in no particular order, but related statements are grouped together.
 * Don’t outsource core business.
 * Once is happenstance, twice is possibly not a coincidence.
 * Inefficient developers solve imaginary problems.
+* If you cannot slice it vertically, slice it horizontally.
 * How you approach a project can matter more than technical skills (see The Beatles).
 
 ##### About writing and reviewing code
@@ -115,6 +116,7 @@ The list is in no particular order, but related statements are grouped together.
 * Add timezones to times.
 * Use the NATO alphabet to effectively pronounce characters.
 * Use cities as timezones instead of UTC offsets to prevent confusion during DST.
+* "Why …?" is a context-dependent question.
 * If all you have is Outlook, then everything is an email.
 * If all you have is Excel, then everything is a spreadsheet.
 * The Dutch phrase “Ik moet helemaal niks!” is an illustration of Dutch culture.
