@@ -64,6 +64,7 @@ The list is in no particular order, but related statements are grouped together.
 * Implement asynchronous queues in your daily life.
 
 ##### About organizations and teams
+* Lead from the front.
 * Prefer ownership over accountability and responsibility.
 * Lack of ownership creates chaos, which can be a conscious choice if the chaos isn’t harmful.
 * After code review, ownership of the code shifts to the team.
@@ -71,6 +72,7 @@ The list is in no particular order, but related statements are grouped together.
 * Teams of more than 10 people cannot function efficiently.
 * Efficient decision making in an organization does not feel democratic.
 * Higher management becomes inefficient if they manage more than a few sub-divisions each.
+* Do spot-checks, don't micromanage.
 * Lowest level managers should be able to at least mostly execute the jobs of their subordinates.
 * If everybody is responsible, nobody is.
 * Assign responsibility to roles, not organizations.
