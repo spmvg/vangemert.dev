@@ -16,7 +16,8 @@
     <b-row class="px-3">
       <b-col cols="9">
         <ul><li><p>
-          <strong>Chapter Lead Python - ABN AMRO Clearing Bank N.V.</strong>
+          <strong>Chapter Lead Python - ABN AMRO Clearing Bank N.V.</strong><br>
+          ABN AMRO Clearing Bank N.V. is a global clearing bank.
         </p></li></ul>
       </b-col>
       <b-col class="blogpost-date mr-auto"><p><i>Feb. 2023 -<br> now</i></p></b-col>
@@ -25,7 +26,7 @@
       <b-col cols="9">
         <ul><li><p>
           <strong>Python Developer - ABN AMRO Clearing Bank N.V.</strong><br>
-          ABN AMRO Clearing Bank N.V. is a global clearing bank.<br>
+          ABN AMRO Clearing Bank N.V. is a global clearing bank.
         </p></li></ul>
       </b-col>
       <b-col class="blogpost-date mr-auto"><p><i>Feb. 2022 -<br> Jan. 2023</i></p></b-col>
@@ -36,7 +37,7 @@
           <strong>Data Scientist - NWWI</strong><br>
           NWWI is a validation institute for property valuation.<br>
           <ul>
-            <li>Increased efficiency across the organisation by developing machine learning pipelines in Python</li>
+            <li>Increased efficiency across the organisation by developing APIs and machine learning pipelines in Python</li>
             <li>Performed analyses and built dashboards for management</li>
             <li>Integrated CI/CD best practices</li>
           </ul>
@@ -64,7 +65,7 @@
         <ul><li><p>
           <strong>Intern (MSc) - Merck KGaA</strong><br>
           Merck KGaA is a multinational science and technology company.<br>
-          <ul><li>Internship: developed reinforcement learning method in Python.</li></ul>
+          <ul><li>Internship: developed reinforcement learning method in Python</li></ul>
         </p></li></ul>
       </b-col>
       <b-col class="blogpost-date mr-auto"><p><i>Dec. 2018 -<br> Mar. 2019</i></p></b-col>
@@ -74,7 +75,7 @@
         <ul><li><p>
           <strong>Business Intelligence (part-time) - Delft Circuits B.V.</strong><br>
           Delft Circuits produces quantum computing hardware.<br>
-          <ul><li>Made a tool that mines scientific publications for market research in cryogenic circuit technology using Python.</li></ul>
+          <ul><li>Made a tool that mines scientific publications for market research in cryogenic circuit technology using Python</li></ul>
         </p></li></ul>
       </b-col>
       <b-col class="blogpost-date mr-auto"><p><i>Jun. 2017 -<br> Feb. 2018</i></p></b-col>
@@ -85,8 +86,8 @@
           <strong>Research assistant (part-time) - Disdrometrics B.V.</strong><br>
           Disdrometrics produces acoustical rain sensors.<br>
           <ul>
-            <li>Rainfall sensor data analysis in Python and MATLAB.</li>
-            <li>Designing and maintaining calibration setup prototypes for acoustical rain sensors.</li>
+            <li>Rainfall sensor data analysis in Python and MATLAB</li>
+            <li>Designing and maintaining calibration setup prototypes for acoustical rain sensors</li>
           </ul>
         </p></li></ul>
       </b-col>
