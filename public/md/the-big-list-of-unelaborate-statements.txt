@@ -27,6 +27,7 @@ The list is in no particular order, but related statements are grouped together.
 * Don’t outsource core business.
 * Once is happenstance, twice is possibly not a coincidence.
 * Inefficient developers solve imaginary problems.
+* Efficiency can be mistakenly perceived as inconsistent perfectionism.
 * If you cannot slice it vertically, slice it horizontally.
 * How you approach a project can matter more than technical skills (see The Beatles).
 
