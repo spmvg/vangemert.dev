@@ -90,6 +90,7 @@ export default {
 }
 .blogpost:hover {
   background-color: rgb(30, 30, 30);
+  cursor: pointer;
 }
 .blogpost-date {
   text-align: right;
